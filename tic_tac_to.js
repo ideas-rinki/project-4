@@ -19,8 +19,6 @@ const resetGame=()=>{
     true0=true;
     enabledboces();
     oop.classList.add("hide");
-
-
 }
 boxes.forEach((box)=>{
       box.addEventListener("click",()=>{
