@@ -4,6 +4,7 @@ let oop=document.querySelector(".oop");
 let newbtn=document.querySelector(".new-btn");
 let p=document.querySelector("#msg");
 let true0=true;
+
 const winnerChecker=[
     [0,1,2],
     [0,3,6],
